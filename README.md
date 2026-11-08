@@ -8,32 +8,32 @@ I'm an IT student at the **Central University of Technology** in South Africa wh
 
 ### Featured projects
 
-**[LocalLens](https://github.com/NhlanhlayethuMazibuko/LocalLens)**
-Find restaurants, hotels and attractions near you on one map, with photos, star ratings, reviews and directions. Designed in Figma, built with React and Vite, and powered by the Google Places API, with a free OpenStreetMap fallback when there's no API key.
+**[LocalLens](https://github.com/NhlanhlayethuMazibuko/LocalLens)**<br>
+Find restaurants, hotels and attractions near you on one map, with photos, star ratings, reviews and directions. Designed in Figma, built with React and Vite, and powered by the Google Places API, with a free OpenStreetMap fallback when there's no API key.<br>
 `React` `Vite` `Google Maps` `Figma`
 
-**[Zoo Management System](https://github.com/NhlanhlayethuMazibuko/Zoo-Management-System-C-Project)**
-A C# console app using a three-tier architecture, Entity Framework Core and SQLite to manage a zoo's animal collection.
+**[Zoo Management System](https://github.com/NhlanhlayethuMazibuko/Zoo-Management-System-C-Project)**<br>
+A C# console app using a three-tier architecture, Entity Framework Core and SQLite to manage a zoo's animal collection.<br>
 `C#` `EF Core` `SQLite`
 
-**[Student Management System](https://github.com/NhlanhlayethuMazibuko/ASPNETCore_DB-Student-Management-System-)**
-A web app for managing student records, built with ASP.NET Core and a database back end.
+**[Student Management System](https://github.com/NhlanhlayethuMazibuko/ASPNETCore_DB-Student-Management-System-)**<br>
+A web app for managing student records, built with ASP.NET Core and a database back end.<br>
 `C#` `ASP.NET Core`
 
-**[ITC327W Group Project](https://github.com/NhlanhlayethuMazibuko/ITC327W-Group-Project)**
-A team project built with ASP.NET Core, using branches, pull requests and code reviews to work together.
+**[ITC327W Group Project](https://github.com/NhlanhlayethuMazibuko/ITC327W-Group-Project)**<br>
+A team project built with ASP.NET Core, using branches, pull requests and code reviews to work together.<br>
 `C#` `ASP.NET Core` `Teamwork`
 
-**[Portfolio](https://github.com/NhlanhlayethuMazibuko/Nhlanhlayethu-Portfolio)**
-My personal site: who I am, what I build, and how to reach me.
+**[Portfolio](https://github.com/NhlanhlayethuMazibuko/Nhlanhlayethu-Portfolio)**<br>
+My personal site: who I am, what I build, and how to reach me.<br>
 `HTML` `CSS` `JavaScript`
 
 ---
 
 ### Tools I use
 
-**Front end:** HTML, CSS, JavaScript, React, Vite
-**Back end:** C#, ASP.NET Core, Entity Framework Core, SQLite
+**Front end:** HTML, CSS, JavaScript, React, Vite<br>
+**Back end:** C#, ASP.NET Core, Entity Framework Core, SQLite<br>
 **Also:** Python, Dart, Git and GitHub, Figma, VS Code, Visual Studio
 
 ---
