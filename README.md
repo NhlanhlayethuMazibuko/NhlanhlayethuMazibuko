@@ -33,7 +33,7 @@ My personal site: who I am, what I build, and how to reach me.<br>
 ### Tools I use
 
 **Front end:** HTML, CSS, JavaScript, React, Vite<br>
-**Back end:** C#, ASP.NET Core, Entity Framework Core, SQLite<br>
+**Back end:** C#, Java, ASP.NET Core, Entity Framework Core, SQLite<br>
 **Also:** Python, Dart, Git and GitHub, Figma, VS Code, Visual Studio
 
 ---
