@@ -1,4 +1,4 @@
-# Hi, I'm Nhlanhla
+# Hi, I'm Nhlanhlayehthu
 
 I'm an IT student at the **Central University of Technology** in South Africa who likes building things people actually enjoy using. I design in Figma, build front ends in React and JavaScript, and write back ends in C# and ASP.NET Core. When I'm not coding, I'm probably building or upgrading a PC.
 
