@@ -43,4 +43,4 @@ My personal site: who I am, what I build, and how to reach me.<br>
 - LinkedIn: [Nhlanhlayethu Mazibuko](https://www.linkedin.com/in/nhlanhlayethu-mazibuko-a5469a242)
 - Email: [nhlacks55@gmail.com](mailto:nhlacks55@gmail.com)
 
-I'm open to **internships and graduate opportunities** in software development, from back-end .NET to front-end and mobile, as well as UI/UX design.
+I'm open to **internships, Junior roles and graduate opportunities** in software development, from back-end .NET to front-end and mobile, as well as UI/UX design.
